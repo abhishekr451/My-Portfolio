@@ -1,0 +1,20 @@
+Hi, I'm Abhishek Rai, an excitable front-end web developer, with some full-stack chops, too. I live with an intense passion for web development.
+
+I've been obsessed with learning about the latest and greatest in web development.
+
+Most days, I'm digging into a Angular web app, setting up a .net API, or marking up an elegant interface. I also play nicely with Node.js, MySql, and find it absolutely esssential to work with build tools like Webpack and Parcel. Some of my favorites: test-driving development, thoroughly architecting a RESTful API, or planning and creating an elegant user interface to solve a Client's business objective.
+
+I also like to Plan, build, and deploy single-page web applications from the ground up.
+
+
+
+
+
+
+
+
+
+
+
+
+
