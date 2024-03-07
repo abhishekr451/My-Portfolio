@@ -254,7 +254,7 @@ function map() {
 
         function initMap() {
 
-            var location = new google.maps.LatLng(28.65322693, 77.36155267);
+            var location = new google.maps.LatLng(28.458165, 77.095498);
 
             var mapCanvas = document.getElementById('map');
             var mapOptions = {
