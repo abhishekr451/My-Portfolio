@@ -252,7 +252,7 @@ function map() {
     if ($('#map').length > 0) {
 
 
-        function initMap() {
+        async  function initMap() {
 
             var location = new google.maps.LatLng(28.458165, 77.095498);
 
@@ -276,7 +276,7 @@ function map() {
             var contentString = '<div class="info-window">' +
                 '<h3>Locate me</h3>' +
                 '<div class="info-content">' +
-                '<p>15/703 vasundhara ghaziabad 201012.</p>' +
+                '<p>hn/57, sec-42 Gurugram.</p>' +
                 '</div>' +
                 '</div>';
 
